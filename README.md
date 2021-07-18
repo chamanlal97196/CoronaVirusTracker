@@ -6,3 +6,5 @@ The project is going to fetch the live data from the API using Async/Await synta
 
 
 <img width="1440" alt="Screenshot 2021-07-18 at 5 17 25 PM" src="https://user-images.githubusercontent.com/60039641/126066867-ffd34ba9-bf1a-4d32-8e35-12ab89eef4a3.png">
+
+<img width="1440" alt="Screenshot 2021-07-18 at 5 17 25 PM" src="https://user-images.githubusercontent.com/60039641/126066867-ffd34ba9-bf1a-4d32-8e35-12ab89eef4a3.png">
